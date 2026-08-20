@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/suyashbuilds/Leetcode/tree/master/0041-first-missing-positive) |
 | [0137-single-number-ii](https://github.com/suyashbuilds/Leetcode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/suyashbuilds/Leetcode/tree/master/0260-single-number-iii) |
 | [1094-car-pooling](https://github.com/suyashbuilds/Leetcode/tree/master/1094-car-pooling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/suyashbuilds/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suyashbuilds/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -61,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/suyashbuilds/Leetcode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/suyashbuilds/Leetcode/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
