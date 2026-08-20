@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/suyashbuilds/Leetcode/tree/master/1094-car-pooling) |
+## String
+|  |
+| ------- |
+| [0521-longest-uncommon-subsequence-i](https://github.com/suyashbuilds/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 <!---LeetCode Topics End-->
