@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/suyashbuilds/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/suyashbuilds/Leetcode/tree/master/0260-single-number-iii) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suyashbuilds/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
