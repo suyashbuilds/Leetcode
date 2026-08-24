@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/suyashbuilds/Leetcode/tree/master/0260-single-number-iii) |
 | [0413-arithmetic-slices](https://github.com/suyashbuilds/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/suyashbuilds/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0456-132-pattern](https://github.com/suyashbuilds/Leetcode/tree/master/0456-132-pattern) |
 | [1094-car-pooling](https://github.com/suyashbuilds/Leetcode/tree/master/1094-car-pooling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/suyashbuilds/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/suyashbuilds/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/suyashbuilds/Leetcode/tree/master/0456-132-pattern) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/suyashbuilds/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Dynamic Programming
 |  |
@@ -80,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/suyashbuilds/Leetcode/tree/master/0413-arithmetic-slices) |
+## Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/suyashbuilds/Leetcode/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/suyashbuilds/Leetcode/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/suyashbuilds/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
