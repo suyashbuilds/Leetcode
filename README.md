@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/suyashbuilds/Leetcode/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/suyashbuilds/Leetcode/tree/master/0055-jump-game) |
 | [0137-single-number-ii](https://github.com/suyashbuilds/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/suyashbuilds/Leetcode/tree/master/0260-single-number-iii) |
 | [0413-arithmetic-slices](https://github.com/suyashbuilds/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/suyashbuilds/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/suyashbuilds/Leetcode/tree/master/0070-climbing-stairs) |
 | [0413-arithmetic-slices](https://github.com/suyashbuilds/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/suyashbuilds/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/suyashbuilds/Leetcode/tree/master/0055-jump-game) |
 | [1754-largest-merge-of-two-strings](https://github.com/suyashbuilds/Leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suyashbuilds/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
