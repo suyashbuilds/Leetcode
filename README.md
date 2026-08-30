@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/suyashbuilds/Leetcode/tree/master/1094-car-pooling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/suyashbuilds/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/suyashbuilds/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/suyashbuilds/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/suyashbuilds/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suyashbuilds/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3693-climbing-stairs-ii](https://github.com/suyashbuilds/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/suyashbuilds/Leetcode/tree/master/0055-jump-game) |
 | [1754-largest-merge-of-two-strings](https://github.com/suyashbuilds/Leetcode/tree/master/1754-largest-merge-of-two-strings) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/suyashbuilds/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suyashbuilds/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
