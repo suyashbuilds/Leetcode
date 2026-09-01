@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suyashbuilds/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/suyashbuilds/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suyashbuilds/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suyashbuilds/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3693-climbing-stairs-ii](https://github.com/suyashbuilds/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/suyashbuilds/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/suyashbuilds/Leetcode/tree/master/0456-132-pattern) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/suyashbuilds/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suyashbuilds/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/suyashbuilds/Leetcode/tree/master/0386-lexicographical-numbers) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suyashbuilds/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
