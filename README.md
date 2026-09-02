@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suyashbuilds/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3693-climbing-stairs-ii](https://github.com/suyashbuilds/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/suyashbuilds/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/suyashbuilds/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/suyashbuilds/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/suyashbuilds/Leetcode/tree/master/0070-climbing-stairs) |
 | [3099-harshad-number](https://github.com/suyashbuilds/Leetcode/tree/master/3099-harshad-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suyashbuilds/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/suyashbuilds/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/suyashbuilds/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sliding Window
 |  |
