@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/suyashbuilds/Leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/suyashbuilds/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/suyashbuilds/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/suyashbuilds/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/suyashbuilds/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/suyashbuilds/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/suyashbuilds/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/suyashbuilds/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/suyashbuilds/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/suyashbuilds/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0940-distinct-subsequences-ii](https://github.com/suyashbuilds/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1754-largest-merge-of-two-strings](https://github.com/suyashbuilds/Leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/suyashbuilds/Leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suyashbuilds/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
