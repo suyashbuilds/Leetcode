@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/suyashbuilds/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suyashbuilds/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Trie
 |  |
 | ------- |
@@ -165,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suyashbuilds/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suyashbuilds/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suyashbuilds/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
