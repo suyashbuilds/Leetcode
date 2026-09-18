@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/suyashbuilds/Leetcode/tree/master/1094-car-pooling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/suyashbuilds/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/suyashbuilds/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1402-reducing-dishes](https://github.com/suyashbuilds/Leetcode/tree/master/1402-reducing-dishes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suyashbuilds/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suyashbuilds/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/suyashbuilds/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/suyashbuilds/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/suyashbuilds/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/suyashbuilds/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1402-reducing-dishes](https://github.com/suyashbuilds/Leetcode/tree/master/1402-reducing-dishes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suyashbuilds/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/suyashbuilds/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [3693-climbing-stairs-ii](https://github.com/suyashbuilds/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/suyashbuilds/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1094-car-pooling](https://github.com/suyashbuilds/Leetcode/tree/master/1094-car-pooling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/suyashbuilds/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1402-reducing-dishes](https://github.com/suyashbuilds/Leetcode/tree/master/1402-reducing-dishes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/suyashbuilds/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suyashbuilds/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/suyashbuilds/Leetcode/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/suyashbuilds/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1402-reducing-dishes](https://github.com/suyashbuilds/Leetcode/tree/master/1402-reducing-dishes) |
 | [1754-largest-merge-of-two-strings](https://github.com/suyashbuilds/Leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suyashbuilds/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suyashbuilds/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
