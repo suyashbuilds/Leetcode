@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/suyashbuilds/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/suyashbuilds/Leetcode/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/suyashbuilds/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/suyashbuilds/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0413-arithmetic-slices](https://github.com/suyashbuilds/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/suyashbuilds/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/suyashbuilds/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/suyashbuilds/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0459-repeated-substring-pattern](https://github.com/suyashbuilds/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/suyashbuilds/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
