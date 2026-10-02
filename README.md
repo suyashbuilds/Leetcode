@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/suyashbuilds/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/suyashbuilds/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/suyashbuilds/Leetcode/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/suyashbuilds/Leetcode/tree/master/0087-scramble-string) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/suyashbuilds/Leetcode/tree/master/0022-generate-parentheses) |
 | [0087-scramble-string](https://github.com/suyashbuilds/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/suyashbuilds/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0459-repeated-substring-pattern](https://github.com/suyashbuilds/Leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -250,6 +252,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/suyashbuilds/Leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suyashbuilds/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suyashbuilds/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/suyashbuilds/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
