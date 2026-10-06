@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/suyashbuilds/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0881-boats-to-save-people](https://github.com/suyashbuilds/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/suyashbuilds/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/suyashbuilds/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1094-car-pooling](https://github.com/suyashbuilds/Leetcode/tree/master/1094-car-pooling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/suyashbuilds/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/suyashbuilds/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/suyashbuilds/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/suyashbuilds/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/suyashbuilds/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [0983-minimum-cost-for-tickets](https://github.com/suyashbuilds/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/suyashbuilds/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/suyashbuilds/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1402-reducing-dishes](https://github.com/suyashbuilds/Leetcode/tree/master/1402-reducing-dishes) |
