@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/suyashbuilds/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0087-scramble-string](https://github.com/suyashbuilds/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/suyashbuilds/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/suyashbuilds/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0459-repeated-substring-pattern](https://github.com/suyashbuilds/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/suyashbuilds/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/suyashbuilds/Leetcode/tree/master/0541-reverse-string-ii) |
@@ -273,4 +274,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suyashbuilds/Leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/suyashbuilds/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/suyashbuilds/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
