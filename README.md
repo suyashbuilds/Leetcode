@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suyashbuilds/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suyashbuilds/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suyashbuilds/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/suyashbuilds/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/suyashbuilds/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suyashbuilds/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/suyashbuilds/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/suyashbuilds/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1402-reducing-dishes](https://github.com/suyashbuilds/Leetcode/tree/master/1402-reducing-dishes) |
 | [1754-largest-merge-of-two-strings](https://github.com/suyashbuilds/Leetcode/tree/master/1754-largest-merge-of-two-strings) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/suyashbuilds/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suyashbuilds/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suyashbuilds/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
