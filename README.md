@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/suyashbuilds/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/suyashbuilds/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suyashbuilds/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suyashbuilds/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/suyashbuilds/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suyashbuilds/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suyashbuilds/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/suyashbuilds/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suyashbuilds/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suyashbuilds/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suyashbuilds/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suyashbuilds/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/suyashbuilds/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1402-reducing-dishes](https://github.com/suyashbuilds/Leetcode/tree/master/1402-reducing-dishes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/suyashbuilds/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suyashbuilds/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suyashbuilds/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/suyashbuilds/Leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/suyashbuilds/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suyashbuilds/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suyashbuilds/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suyashbuilds/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/suyashbuilds/Leetcode/tree/master/1094-car-pooling) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suyashbuilds/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Simulation
 |  |
 | ------- |
