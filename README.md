@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/suyashbuilds/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/suyashbuilds/Leetcode/tree/master/0547-number-of-provinces) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suyashbuilds/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Trie
 |  |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/suyashbuilds/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0547-number-of-provinces](https://github.com/suyashbuilds/Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -315,4 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/suyashbuilds/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/suyashbuilds/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/suyashbuilds/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
