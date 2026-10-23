@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/suyashbuilds/Leetcode/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/suyashbuilds/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/suyashbuilds/Leetcode/tree/master/0547-number-of-provinces) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suyashbuilds/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/suyashbuilds/Leetcode/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/suyashbuilds/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/suyashbuilds/Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Indexed Tree
@@ -325,5 +327,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/suyashbuilds/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/suyashbuilds/Leetcode/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/suyashbuilds/Leetcode/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/suyashbuilds/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
