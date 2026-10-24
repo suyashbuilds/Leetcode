@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/suyashbuilds/Leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suyashbuilds/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/suyashbuilds/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2409-count-days-spent-together](https://github.com/suyashbuilds/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/suyashbuilds/Leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suyashbuilds/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/suyashbuilds/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/suyashbuilds/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/suyashbuilds/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/suyashbuilds/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2409-count-days-spent-together](https://github.com/suyashbuilds/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3099-harshad-number](https://github.com/suyashbuilds/Leetcode/tree/master/3099-harshad-number) |
 | [3524-find-x-value-of-array-i](https://github.com/suyashbuilds/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suyashbuilds/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
