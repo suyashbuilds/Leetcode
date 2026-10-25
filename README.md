@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/suyashbuilds/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1094-car-pooling](https://github.com/suyashbuilds/Leetcode/tree/master/1094-car-pooling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/suyashbuilds/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1254-number-of-closed-islands](https://github.com/suyashbuilds/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/suyashbuilds/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1402-reducing-dishes](https://github.com/suyashbuilds/Leetcode/tree/master/1402-reducing-dishes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suyashbuilds/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/suyashbuilds/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/suyashbuilds/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/suyashbuilds/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suyashbuilds/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Timsort
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/suyashbuilds/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/suyashbuilds/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/suyashbuilds/Leetcode/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/suyashbuilds/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suyashbuilds/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Trie
 |  |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/suyashbuilds/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/suyashbuilds/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/suyashbuilds/Leetcode/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/suyashbuilds/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/suyashbuilds/Leetcode/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/suyashbuilds/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
