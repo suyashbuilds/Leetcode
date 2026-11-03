@@ -8,10 +8,7 @@ public:
         int num = *max_element(nums.begin(), nums.end());
 
         for(auto x : nums){
-            while(x < num){
-                x++;
-                count++;
-            }
+            count += num-x;
         }
 
         return count;
