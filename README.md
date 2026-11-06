@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/suyashbuilds/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suyashbuilds/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/suyashbuilds/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2942-find-words-containing-character](https://github.com/suyashbuilds/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3483-unique-3-digit-even-numbers](https://github.com/suyashbuilds/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/suyashbuilds/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suyashbuilds/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/suyashbuilds/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/suyashbuilds/Leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suyashbuilds/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2942-find-words-containing-character](https://github.com/suyashbuilds/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/suyashbuilds/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/suyashbuilds/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
