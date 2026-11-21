@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suyashbuilds/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suyashbuilds/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suyashbuilds/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suyashbuilds/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/suyashbuilds/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/suyashbuilds/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suyashbuilds/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/suyashbuilds/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/suyashbuilds/Leetcode/tree/master/0260-single-number-iii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suyashbuilds/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suyashbuilds/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Math
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/suyashbuilds/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/suyashbuilds/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suyashbuilds/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suyashbuilds/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2409-count-days-spent-together](https://github.com/suyashbuilds/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3099-harshad-number](https://github.com/suyashbuilds/Leetcode/tree/master/3099-harshad-number) |
 | [3524-find-x-value-of-array-i](https://github.com/suyashbuilds/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suyashbuilds/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2094-finding-3-digit-even-numbers](https://github.com/suyashbuilds/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/suyashbuilds/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/suyashbuilds/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/suyashbuilds/Leetcode/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/suyashbuilds/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suyashbuilds/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -412,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suyashbuilds/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suyashbuilds/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
