@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suyashbuilds/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/suyashbuilds/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2409-count-days-spent-together](https://github.com/suyashbuilds/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2544-alternating-digit-sum](https://github.com/suyashbuilds/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [3099-harshad-number](https://github.com/suyashbuilds/Leetcode/tree/master/3099-harshad-number) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/suyashbuilds/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/suyashbuilds/Leetcode/tree/master/3524-find-x-value-of-array-i) |
